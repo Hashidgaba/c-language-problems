@@ -8,6 +8,7 @@ int main(){
 
     int sum = 0;
     int i = 1;
+    
     while(i <= num){
         cout << i << " * " <<  i << " = " << i * i << endl;
         sum += i * i;
